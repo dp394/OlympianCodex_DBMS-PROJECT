@@ -1,4 +1,3 @@
-Video link: https://drive.google.com/file/d/18kkcPyJkcgyuMxAqAfyF7E_Q3wACcIea/view?usp=sharing
 
 
 A comprehensive SQLite database management system for Greek mythology featuring gods, demigods, monsters, quests, and divine artifacts.
